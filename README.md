@@ -8,6 +8,7 @@ and be able to differentiate one from the other.<br/>
 1)Pandas</br>
 2)Matplotlib</br>
 3)keras</br>
-4)Scikit-Learn
-
+4)Scikit-Learn<br>
+<h1>Data folder link:-</h1>
+Google Drive:- https://drive.google.com/file/d/1lI_OCrqxAmd-IYjQfLPKUcKgHto4Notq/view?usp=sharing
 
